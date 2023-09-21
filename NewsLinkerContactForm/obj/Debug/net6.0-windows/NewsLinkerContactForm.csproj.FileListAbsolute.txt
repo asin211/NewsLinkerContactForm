@@ -1,0 +1,16 @@
+C:\Users\amrinder\Source\Repos\NewsLinkerContactForm\NewsLinkerContactForm\bin\Debug\net6.0-windows\NewsLinkerContactForm.exe
+C:\Users\amrinder\Source\Repos\NewsLinkerContactForm\NewsLinkerContactForm\bin\Debug\net6.0-windows\NewsLinkerContactForm.deps.json
+C:\Users\amrinder\Source\Repos\NewsLinkerContactForm\NewsLinkerContactForm\bin\Debug\net6.0-windows\NewsLinkerContactForm.runtimeconfig.json
+C:\Users\amrinder\Source\Repos\NewsLinkerContactForm\NewsLinkerContactForm\bin\Debug\net6.0-windows\NewsLinkerContactForm.dll
+C:\Users\amrinder\Source\Repos\NewsLinkerContactForm\NewsLinkerContactForm\bin\Debug\net6.0-windows\NewsLinkerContactForm.pdb
+C:\Users\amrinder\Source\Repos\NewsLinkerContactForm\NewsLinkerContactForm\obj\Debug\net6.0-windows\NewsLinkerContactForm.Form1.resources
+C:\Users\amrinder\Source\Repos\NewsLinkerContactForm\NewsLinkerContactForm\obj\Debug\net6.0-windows\NewsLinkerContactForm.csproj.GenerateResource.cache
+C:\Users\amrinder\Source\Repos\NewsLinkerContactForm\NewsLinkerContactForm\obj\Debug\net6.0-windows\NewsLinkerContactForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amrinder\Source\Repos\NewsLinkerContactForm\NewsLinkerContactForm\obj\Debug\net6.0-windows\NewsLinkerContactForm.AssemblyInfoInputs.cache
+C:\Users\amrinder\Source\Repos\NewsLinkerContactForm\NewsLinkerContactForm\obj\Debug\net6.0-windows\NewsLinkerContactForm.AssemblyInfo.cs
+C:\Users\amrinder\Source\Repos\NewsLinkerContactForm\NewsLinkerContactForm\obj\Debug\net6.0-windows\NewsLinkerContactForm.csproj.CoreCompileInputs.cache
+C:\Users\amrinder\Source\Repos\NewsLinkerContactForm\NewsLinkerContactForm\obj\Debug\net6.0-windows\NewsLinkerContactForm.dll
+C:\Users\amrinder\Source\Repos\NewsLinkerContactForm\NewsLinkerContactForm\obj\Debug\net6.0-windows\refint\NewsLinkerContactForm.dll
+C:\Users\amrinder\Source\Repos\NewsLinkerContactForm\NewsLinkerContactForm\obj\Debug\net6.0-windows\NewsLinkerContactForm.pdb
+C:\Users\amrinder\Source\Repos\NewsLinkerContactForm\NewsLinkerContactForm\obj\Debug\net6.0-windows\NewsLinkerContactForm.genruntimeconfig.cache
+C:\Users\amrinder\Source\Repos\NewsLinkerContactForm\NewsLinkerContactForm\obj\Debug\net6.0-windows\ref\NewsLinkerContactForm.dll
